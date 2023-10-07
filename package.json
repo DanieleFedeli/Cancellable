@@ -5,13 +5,14 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "tap test.js"
+    "test": "c8 --reporter=lcov tap test.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.8.0",
+    "c8": "^8.0.1",
     "tap": "^18.4.0",
     "typescript": "^5.2.2"
   }
