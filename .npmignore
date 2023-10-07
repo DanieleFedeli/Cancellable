@@ -1,0 +1,6 @@
+tests
+.github
+node_modules
+.tap
+.vscode
+coverage

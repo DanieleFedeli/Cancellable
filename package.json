@@ -1,14 +1,16 @@
 {
-  "name": "cancellable-promise",
+  "name": "@daniele.fedeli/cancellable-promise",
   "version": "1.0.0",
-  "description": "",
+  "description": "An easy way to cancel promises in Javascript",
   "main": "index.js",
   "types": "index.d.ts",
+  "type": "commonjs",
+  "homepage": "https://github.com/DanieleFedeli/Cancellable",
   "scripts": {
     "test": "c8 -c tests/config/c8.json tap --disable-coverage --allow-empty-coverage"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["promise", "promises", "cancel promise"],
+  "author": "Daniele Fedeli",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.8.0",

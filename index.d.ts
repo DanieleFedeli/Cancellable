@@ -1,4 +1,3 @@
-
 type CancellableArgs = { promise: Promise<T>, abortController: AbortController }
 
 export function Cancellable(args: Promise<T>): { abortController: AbortController, promise: TPromise<T> }
