@@ -5,7 +5,7 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
-    "test": "c8 -c tests/config/c8.json tap --disable-coverage"
+    "test": "c8 -c tests/config/c8.json tap"
   },
   "keywords": [],
   "author": "",
