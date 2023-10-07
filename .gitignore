@@ -131,3 +131,5 @@ dist
 
 .vscode
 .tap
+
+package-lock.json
