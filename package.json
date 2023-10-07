@@ -14,7 +14,5 @@
     "@types/node": "^20.8.0",
     "tap": "^18.4.0",
     "typescript": "^5.2.2"
-  },
-  "dependencies": {
   }
 }
