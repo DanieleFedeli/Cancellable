@@ -1,4 +1,5 @@
 # Cancellable
+[![codecov](https://codecov.io/gh/DanieleFedeli/Cancellable/graph/badge.svg?token=UPWmavVMVO)](https://codecov.io/gh/DanieleFedeli/Cancellable)
 
 Easy way to cancel async work in javascript
 
