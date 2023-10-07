@@ -1,5 +1,5 @@
 const t = require("tap");
-const { Cancellable } = require("../lib");
+const { Cancellable } = require("..");
 
 t.test("Aborted promise", async (t) => {
   t.plan(1);
