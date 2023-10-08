@@ -4,7 +4,9 @@
 Easy way to cancel async work in javascript
 
 ## How to install
-```npm i @daniele.fedeli/cancellable-promise```
+```sh
+npm i @daniele.fedeli/cancellable-promise
+```
 ## How it works
 
 The usage is pretty strightforward:
